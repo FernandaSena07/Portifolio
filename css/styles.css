@@ -11823,3 +11823,9 @@ section.resume-section .resume-section-content {
 .foto {
   clip-path: circle();
 }
+
+@media screen and (max-width: 485px) {
+  .lead {
+    text-align: justify;
+  }
+}
